@@ -19,7 +19,7 @@ let app = {
 
             <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="main.html">Home</a>
+                    <a class="nav-item nav-link" href="home.html">Home</a>
                     <a class="nav-item nav-link active" href="about.html">About</a>
                 </div>
             </div>
